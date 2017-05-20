@@ -14,5 +14,5 @@ build
 .env
 npm-debug.log
 
-#auth0 vars
+# auth0 vars
 /src/Auth/auth0-variables.js
